@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="del">del</string>
+    <string name="q">(</string>
+    <string name="w">)</string>
+    <string name="c">C</string>
+</resources>
